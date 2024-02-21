@@ -21,13 +21,13 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 [Movie App ASP.Net] <a name="about-project"></a>
+# 📖 [Movie App ASP.NET] <a name="about-project"></a>
 
 In this project, I have developed a comprehensive movie application that provides users with the ability to stream movies, bookmark selections for future viewing, and effortlessly search through available titles. Additionally, the platform empowers administrators with robust functionalities to manage both movie databases and user information effectively.
 
 ## 🛠 Built With <a name="built-with"></a>
 
-- ASP.Net
+- ASP.NET
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -46,14 +46,14 @@ In this project, I have developed a comprehensive movie application that provide
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://html.com/html5/">Dart</a></li>
+    <li><a href="https://html.com/html5/">C#</a></li>
   </ul>
 </details>
  
 ### Key Features <a name="key-features"></a>
 
 - **[Usage of Dynamic desigin]**
-- **[Follow Dart best practice]**
+- **[Follow ASP.NET best practice]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -62,12 +62,9 @@ In this project, I have developed a comprehensive movie application that provide
 - The Live Demo link will be available soon!
 
 ## 🖼️ Running App Pictures <a name="pictures"></a>
-
-- ![WhatsApp Image 2023-10-21 at 12 15 22 PM](https://github.com/muhammaduzairrazaq/xylophone/assets/138608690/a4d34cce-e8c3-4b3d-a4fd-e085e81672e0)
-- ![WhatsApp Image 2023-10-21 at 12 15 22 PM (1)](https://github.com/muhammaduzairrazaq/xylophone/assets/138608690/8aac8183-ec1c-4124-b366-c1f9d46d581c)
-- ![WhatsApp Image 2023-10-21 at 12 15 23 PM](https://github.com/muhammaduzairrazaq/xylophone/assets/138608690/6f6eb4f5-e7e2-48b2-bd1f-7d126f8ec9b3)
-- ![WhatsApp Image 2023-10-21 at 12 15 23 PM (1)](https://github.com/muhammaduzairrazaq/xylophone/assets/138608690/594b6dd0-5a8a-4608-a15a-bd443d1d0bf1)
-- ![WhatsApp Image 2023-10-21 at 12 15 23 PM (2)](https://github.com/muhammaduzairrazaq/xylophone/assets/138608690/787a92ff-cde4-4c3d-8f24-103e2f7588d7)
+- ![image](https://github.com/muhammaduzairrazaq/MovieWebApp/assets/138608690/e2fa25a3-6f28-4991-ad3a-a467cce6c037)
+- ![image](https://github.com/muhammaduzairrazaq/MovieWebApp/assets/138608690/993f5901-d6d4-45dc-9586-1c8d84a9a0d7)
+- ![image](https://github.com/muhammaduzairrazaq/MovieWebApp/assets/138608690/65fbfe97-4207-441a-99a0-aff6a8c57499)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -91,27 +88,27 @@ Example command:
 
 ```sh
   cd my-folder
-  git clone: (git@github.com:muhammaduzairrazaq/xylophone.git)
+  git clone: (git@github.com:muhammaduzairrazaq/MovieWebApp.git)
 ```
 
 ### Install
 
 Install the following extensions in vs code:
 
-- Flutter
-- Dart
-
+- Visual Studio
+  
 ### Usage
 
-To run the project, execute the following command:
+To run the project, execute the following steps:
 
-- flutter run
+- Open the project in visual studio
+- Run the project in browser
 
 ### Deployment
 
-You can deploy this project using:
-Play Store
-
+You can host this project using:
+- Github
+  
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 👥 Authors <a name="authors"></a>
