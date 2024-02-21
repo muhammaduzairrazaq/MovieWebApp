@@ -21,13 +21,13 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 [Movie App DotNet] <a name="about-project"></a>
+# 📖 [Movie App ASP.Net] <a name="about-project"></a>
 
 In this project, I have developed a comprehensive movie application that provides users with the ability to stream movies, bookmark selections for future viewing, and effortlessly search through available titles. Additionally, the platform empowers administrators with robust functionalities to manage both movie databases and user information effectively.
 
 ## 🛠 Built With <a name="built-with"></a>
 
-- DotNet
+- ASP.Net
 
 ### Tech Stack <a name="tech-stack"></a>
 
