@@ -1,0 +1,96 @@
+﻿
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(29, 28, 34);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    border: 1px solid white;
+    
+    box-shadow: 15px 15px 8px 0px rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0, 0, 0.1);
+}
+/*
+#edittable {
+    margin: 2%;
+}*/
+
+th, td {
+    text-align: left;
+    padding: 8px;
+      
+
+}
+
+tr {
+    border-bottom: 3px solid whitesmoke;
+   
+}
+
+td {
+    background-color:rgb(141, 111, 244);
+    font-size: 14px;
+    font-weight: bold;
+    color:white;
+    height: 30px;
+    padding: 0 30px;
+    text-align: left;
+}
+
+th {
+    height: 60px;
+    background-color: rgb(141, 111, 244);
+    color: white;
+    font-size: 20px;
+    padding: 0 30px;
+}
+/*
+#datatable {
+    margin-left: 124px;
+    margin-top: 159px;
+    border: 1px solid aqua;
+   
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+*/
+
+#datatable{
+    width:75%;
+    height:auto;
+   margin-top:2px;
+   margin-left:198px;
+}
+
+
+.ibutf {
+    background-color:white;
+    height: 50px;
+    border: 1px solid white;
+    border-radius: 8px;
+    color: black;
+    position: relative;
+}
+
+#searchsection {
+    display: flex;
+    padding:5px;
+    align-items:center;
+    height:70px;
+    width:1139px;
+    gap: 7px;
+   background-color:rgb(141, 111, 244);
+    margin-top: 80px;
+    margin-left: 198px;
+    border: 1px solid rgb(141, 111, 244);
+}
+
+#searchbarf {
+    height: 42px;
+    border: 2px solid rgb(81, 85, 216);
+    border-radius: 8px;
+    width: 400px;
+    position: relative;
+}

@@ -1,0 +1,59 @@
+E:\Movie Spooky\Movie Spooky\bin\Movie Spooky.dll.config
+E:\Movie Spooky\Movie Spooky\bin\Movie Spooky.dll
+E:\Movie Spooky\Movie Spooky\bin\Movie Spooky.pdb
+E:\Movie Spooky\Movie Spooky\bin\roslyn\csc.exe
+E:\Movie Spooky\Movie Spooky\bin\roslyn\csc.exe.config
+E:\Movie Spooky\Movie Spooky\bin\roslyn\csc.rsp
+E:\Movie Spooky\Movie Spooky\bin\roslyn\csi.exe
+E:\Movie Spooky\Movie Spooky\bin\roslyn\csi.exe.config
+E:\Movie Spooky\Movie Spooky\bin\roslyn\csi.rsp
+E:\Movie Spooky\Movie Spooky\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Movie Spooky\Movie Spooky\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Movie Spooky\Movie Spooky\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Movie Spooky\Movie Spooky\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Movie Spooky\Movie Spooky\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Movie Spooky\Movie Spooky\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Movie Spooky\Movie Spooky\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Movie Spooky\Movie Spooky\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Movie Spooky\Movie Spooky\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Movie Spooky\Movie Spooky\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Movie Spooky\Movie Spooky\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Movie Spooky\Movie Spooky\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Movie Spooky\Movie Spooky\bin\roslyn\System.AppContext.dll
+E:\Movie Spooky\Movie Spooky\bin\roslyn\System.Collections.Immutable.dll
+E:\Movie Spooky\Movie Spooky\bin\roslyn\System.Console.dll
+E:\Movie Spooky\Movie Spooky\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Movie Spooky\Movie Spooky\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Movie Spooky\Movie Spooky\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Movie Spooky\Movie Spooky\bin\roslyn\System.Globalization.Calendars.dll
+E:\Movie Spooky\Movie Spooky\bin\roslyn\System.IO.Compression.dll
+E:\Movie Spooky\Movie Spooky\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Movie Spooky\Movie Spooky\bin\roslyn\System.IO.FileSystem.dll
+E:\Movie Spooky\Movie Spooky\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Movie Spooky\Movie Spooky\bin\roslyn\System.Net.Http.dll
+E:\Movie Spooky\Movie Spooky\bin\roslyn\System.Net.Sockets.dll
+E:\Movie Spooky\Movie Spooky\bin\roslyn\System.Reflection.Metadata.dll
+E:\Movie Spooky\Movie Spooky\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Movie Spooky\Movie Spooky\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Movie Spooky\Movie Spooky\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Movie Spooky\Movie Spooky\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Movie Spooky\Movie Spooky\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Movie Spooky\Movie Spooky\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Movie Spooky\Movie Spooky\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Movie Spooky\Movie Spooky\bin\roslyn\System.ValueTuple.dll
+E:\Movie Spooky\Movie Spooky\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Movie Spooky\Movie Spooky\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Movie Spooky\Movie Spooky\bin\roslyn\System.Xml.XPath.dll
+E:\Movie Spooky\Movie Spooky\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Movie Spooky\Movie Spooky\bin\roslyn\vbc.exe
+E:\Movie Spooky\Movie Spooky\bin\roslyn\vbc.exe.config
+E:\Movie Spooky\Movie Spooky\bin\roslyn\vbc.rsp
+E:\Movie Spooky\Movie Spooky\bin\roslyn\VBCSCompiler.exe
+E:\Movie Spooky\Movie Spooky\bin\roslyn\VBCSCompiler.exe.config
+E:\Movie Spooky\Movie Spooky\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Movie Spooky\Movie Spooky\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Movie Spooky\Movie Spooky\obj\Debug\Movie Spooky.csproj.AssemblyReference.cache
+E:\Movie Spooky\Movie Spooky\obj\Debug\Movie Spooky.csproj.CoreCompileInputs.cache
+E:\Movie Spooky\Movie Spooky\obj\Debug\Movie Spooky.csproj.CopyComplete
+E:\Movie Spooky\Movie Spooky\obj\Debug\Movie Spooky.dll
+E:\Movie Spooky\Movie Spooky\obj\Debug\Movie Spooky.pdb

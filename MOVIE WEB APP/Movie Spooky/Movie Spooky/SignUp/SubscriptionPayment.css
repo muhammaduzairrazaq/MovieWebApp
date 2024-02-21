@@ -1,0 +1,96 @@
+﻿
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100&family=Yeon+Sung&display=swap');
+
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Yeon Sung', cursive;
+    background-color: whitesmoke;
+    overflow-x: hidden;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+#barul li {
+    display: inline;
+}
+
+
+#nabar {
+    padding: 5px;
+    border-bottom: 1px solid black;
+    background-color: white;
+}
+
+a {
+    font-size: 25px;
+    color: red;
+    font-weight: bold;
+}
+
+
+.foot {
+    font-family: sans-serif;
+    margin-top: 160px;
+    width: 100vw;
+    height: 160px;
+    background-color: white;
+    padding: 5px;
+}
+
+    .foot li {
+        margin: 5px;
+    }
+
+    .foot a {
+        text-decoration: none;
+        color: black;
+        font-size: 13px;
+        font-weight: normal;
+    }
+
+        .foot a:hover {
+            color: darkgray;
+        }
+
+
+#maincontainer {
+    font-family: sans-serif;
+    background-color: white;
+    padding: 10px;
+    border: 1px solid white;
+    border-radius: 20px;
+    height: auto;
+    width: auto;
+    margin-top: 70px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    display: flex;
+    flex-direction: column;
+}
+
+.inpbox {
+    width: 70%;
+    height: 67px;
+    border: 1px solid red;
+    border-radius: 8px;
+}
+
+.mbuton {
+    font-size: 18px;
+    border: 2px solid red;
+    border-radius: 8px;
+    height: 70px;
+    background-color: red;
+    color: white;
+    margin-top: 40px;
+}
+
+.atag {
+    margin-left: 44px;
+}
